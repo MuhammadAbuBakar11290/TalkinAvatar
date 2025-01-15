@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Muhammad Abu Bakkar\\OneDrive - Higher Education Commission\\Desktop\\folder\\ntucLearningHub\\public\\audios\\sorry.wav",
+    "duration": 5.38
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.15, "value": "X" },
+    { "start": 0.15, "end": 0.25, "value": "B" },
+    { "start": 0.25, "end": 0.32, "value": "D" },
+    { "start": 0.32, "end": 0.75, "value": "B" },
+    { "start": 0.75, "end": 0.96, "value": "F" },
+    { "start": 0.96, "end": 1.03, "value": "B" },
+    { "start": 1.03, "end": 1.17, "value": "C" },
+    { "start": 1.17, "end": 1.31, "value": "B" },
+    { "start": 1.31, "end": 1.52, "value": "C" },
+    { "start": 1.52, "end": 1.66, "value": "B" },
+    { "start": 1.66, "end": 1.73, "value": "C" },
+    { "start": 1.73, "end": 1.94, "value": "B" },
+    { "start": 1.94, "end": 2.75, "value": "X" },
+    { "start": 2.75, "end": 3.08, "value": "F" },
+    { "start": 3.08, "end": 3.15, "value": "E" },
+    { "start": 3.15, "end": 3.29, "value": "F" },
+    { "start": 3.29, "end": 3.36, "value": "C" },
+    { "start": 3.36, "end": 3.43, "value": "E" },
+    { "start": 3.43, "end": 3.50, "value": "F" },
+    { "start": 3.50, "end": 3.58, "value": "A" },
+    { "start": 3.58, "end": 3.69, "value": "E" },
+    { "start": 3.69, "end": 3.77, "value": "A" },
+    { "start": 3.77, "end": 3.87, "value": "C" },
+    { "start": 3.87, "end": 4.08, "value": "B" },
+    { "start": 4.08, "end": 4.22, "value": "H" },
+    { "start": 4.22, "end": 4.29, "value": "C" },
+    { "start": 4.29, "end": 4.57, "value": "B" },
+    { "start": 4.57, "end": 5.38, "value": "X" }
+  ]
+}
